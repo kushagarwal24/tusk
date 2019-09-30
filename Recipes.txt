@@ -6,3 +6,12 @@ Welcome to recipes text
 Burger
 Pasta
 Cold coffee
+Pizza
+Beans
+
+
+Thank you
+
+
+
+Done
